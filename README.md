@@ -2,24 +2,21 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Jonathan Cheng
 
 ## Technologies Used
 
-- _List all_
-- _the major technologies_
-- _you used in your project_
-- _here_
+- HTML
+- CSS
+- JavaScript
+- JQuery
 
 ## Description
 
 ## Setup/Installation Requirements
 
-- _This is a great place_
-- _to list setup instructions_
-- _in a simple_
-- _easy-to-understand_
-- _format_
+- Clone this repository to your desktop
+- In GitBash, while in the root directory, run $ npm install
 
 ## Known Bugs
 
@@ -27,5 +24,7 @@
 - _should go here_
 
 ## License
+
+Copyright (c) YEAR Jonathan Cheng
 
 ## Contact Information
